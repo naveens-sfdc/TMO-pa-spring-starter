@@ -1,4 +1,3 @@
-//package com.galvanize.tmo.paspringstarter;
 package com.galvanize.tmo.paspringstarter.controller;
 import java.net.URI;
 import java.net.URISyntaxException;
